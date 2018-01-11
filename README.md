@@ -1,7 +1,5 @@
 # Boilerplate
 
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-netflix.svg)](http://forthebadge.com)
-
 A starting point for creating static websites.
 
 Features:
@@ -15,13 +13,13 @@ Features:
 Clone the repo using `git clone` or by clicking the *Download ZIP* button to the right.
 
 ```sh
-git clone https://github.com/felipevila/static-boilerplate.git
+git clone https://github.com/felipevila/html-boilerplate.git
 ```
 
 Navigate to the directory to where it was cloned.
 
 ```sh
-cd static-boilerplate
+cd html-boilerplate
 ```
 
 Install all dependencies using npm:
